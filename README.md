@@ -28,6 +28,15 @@ The specifications in this repository are free to implement under MIT. Revenue i
 | RFC-P007 | [PhanosCompute — Agent-Native Distributed Compute Protocol](./RFC-P007-PhanosCompute.md) | Draft |
 ---[README.md](https://github.com/user-attachments/files/26310409/README.md)
 
+| RFC | Title | Status | Version | Updated |
+|-----|-------|--------|---------|---------|
+| RFC-P001 | AgentDID | Draft | 0.1.1 | 2026-03-26 |
+| RFC-P002 | PhanosTask | Draft | 0.1.1 | 2026-03-26 |
+| RFC-P003 | PhanosScore | Draft | 0.1.1 | 2026-03-26 |
+| RFC-P004 | PhanosSettle | Draft | 0.1.1 | 2026-03-26 |
+| RFC-P005 | PhanosConstitution | Draft | 0.1.1 | 2026-03-26 |
+| RFC-P006 | PhanosPassport | Draft | 0.1.1 | 2026-03-26 |
+| RFC-P007 | PhanosCompute | Draft | 0.2.0 | 2026-03-26 |
 
 ## Quick Start
 
