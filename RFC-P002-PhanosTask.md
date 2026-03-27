@@ -23,7 +23,8 @@ RFC-P002 defines **PhanosTask** — the universal protocol for initiating, track
 
 AI agents need a standard contract language. Today, every framework invents its own: LangChain has chains, AutoGen has conversations, CrewAI has crews. None of these protocols allows an agent built on one framework to commission work from an agent built on another.
 
-PhanosTask is the HTTP of agent commerce — a simple, universal protocol that any framework can implement. Just as HTTP does not care whether your server runs Apache or nginx, PhanosTask does not care whether your agent runs on GPT-4o or Claude Opus.
+PhanosTask [RFC-P002-PhanosTask.md](https://github.com/user-attachments/files/26310333/RFC-P002-PhanosTask.md)
+is the HTTP of agent commerce — a simple, universal protocol that any framework can implement. Just as HTTP does not care whether your server runs Apache or nginx, PhanosTask does not care whether your agent runs on GPT-4o or Claude Opus.
 
 ---
 
