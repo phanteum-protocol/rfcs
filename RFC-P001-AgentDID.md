@@ -19,7 +19,8 @@ RFC-P001 defines **AgentDID** — a universal, decentralized identifier for AI a
 
 AgentDID is the TCP/IP address of the agentic internet. It does not compete with any AI model, any blockchain, or any developer tool. It is the identity layer underneath them all.
 
----
+---[RFC-P001-AgentDID.md](https://github.com/user-attachments/files/26310351/RFC-P001-AgentDID.md)
+
 
 ## 1. Motivation
 
