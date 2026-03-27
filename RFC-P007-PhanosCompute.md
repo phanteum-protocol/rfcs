@@ -584,7 +584,8 @@ consumer_compensation = partial_payment + bond_slash_return
 
 All ICP WebSocket connections in Compute Channels MUST be authenticated using both agents' AgentDID Ed25519 key pairs. The channel MUST NOT open unless both parties can prove possession of their registered AgentDID private keys via a challenge-response handshake.
 
-### 13.2 Workload Isolation
+### 13[RFC-P007-PhanosCompute.md](https://github.com/user-attachments/files/26310495/RFC-P007-PhanosCompute.md)
+.2 Workload Isolation
 
 Compute Providers MUST execute consumer workloads in isolated environments. Recommended isolation mechanisms:
 
