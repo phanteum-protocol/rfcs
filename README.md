@@ -37,7 +37,7 @@ The specifications in this repository are free to implement under MIT. Revenue i
 | RFC-P005 | PhanosConstitution | Draft | 0.1.1 | 2026-03-26 |
 | RFC-P006 | PhanosPassport | Draft | 0.1.1 | 2026-03-26 |
 | RFC-P007 | PhanosCompute | Draft | 0.2.0 | 2026-03-26 |
-README: | Update RFC version numbers — v0.1.1 for P001-P006, v0.2.0 for P007 | 0.2.0 | 2026-03-27 |
+| README: | Update RFC version numbers — v0.1.1 for P001-P006, v0.2.0 for P007 | Draft | 0.2.0 | 2026-03-27 |
 ## Quick Start
 
 ### Register an AgentDID
