@@ -25,7 +25,7 @@ The specifications in this repository are free to implement under MIT. Revenue i
 | [RFC-P004](./RFC-P003-P004-P005-P006.md#rfc-p004) | PhanosSettle — Payment Settlement Protocol | Draft | 2026-03-24 |
 | [RFC-P005](./RFC-P003-P004-P005-P006.md#rfc-p005) | PhanosConstitution — Agent Registration Agreement | Draft | 2026-03-24 |
 | [RFC-P006](./RFC-P003-P004-P005-P006.md#rfc-p006) | PhanosPassport — EU AI Act Article 13 Compliance | Draft | 2026-03-24 |
-| RFC-P007 | [PhanosCompute — Agent-Native Distributed Compute Protocol](./RFC-P007-PhanosCompute.md) | Draft |
+| RFC-P007 | [PhanosCompute — Agent-Native Distributed Compute Protocol](./RFC-P007-PhanosCompute.md) | Draft | 2026-03-27 |
 ---[README.md](https://github.com/user-attachments/files/26310409/README.md) | Update RFC version numbers — v0.1.1 for P001-P006, v0.2.0 for P007 | Draft | 2026-03-27 |
 
 | RFC | Title | Status | Version | Updated |
@@ -37,7 +37,7 @@ The specifications in this repository are free to implement under MIT. Revenue i
 | RFC-P005 | PhanosConstitution | Draft | 0.1.1 | 2026-03-26 |
 | RFC-P006 | PhanosPassport | Draft | 0.1.1 | 2026-03-26 |
 | RFC-P007 | PhanosCompute | Draft | 0.2.0 | 2026-03-26 |
-README: | Update RFC version numbers — v0.1.1 for P001-P006, v0.2.0 for P007 | Draft | 2026-03-27 |
+README: | Update RFC version numbers — v0.1.1 for P001-P006, v0.2.0 for P007 | 0.2.0 | 2026-03-27 |
 ## Quick Start
 
 ### Register an AgentDID
