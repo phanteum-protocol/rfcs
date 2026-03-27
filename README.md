@@ -25,7 +25,7 @@ The specifications in this repository are free to implement under MIT. Revenue i
 | [RFC-P004](./RFC-P003-P004-P005-P006.md#rfc-p004) | PhanosSettle — Payment Settlement Protocol | Draft | 2026-03-24 |
 | [RFC-P005](./RFC-P003-P004-P005-P006.md#rfc-p005) | PhanosConstitution — Agent Registration Agreement | Draft | 2026-03-24 |
 | [RFC-P006](./RFC-P003-P004-P005-P006.md#rfc-p006) | PhanosPassport — EU AI Act Article 13 Compliance | Draft | 2026-03-24 |
-
+| RFC-P007 | [PhanosCompute — Agent-Native Distributed Compute Protocol](./RFC-P007-PhanosCompute.md) | Draft |
 ---
 
 ## Quick Start
@@ -82,7 +82,18 @@ RFC-P003: PhanosScore      ← Universal trust signal (free)
 RFC-P004: PhanosSettle     ← Universal settlement (0.15% toll)
 RFC-P005: PhanosConstitution ← Agent registration agreement
 RFC-P006: PhanosPassport   ← EU AI Act compliance
-```
+### RFC-P007 — PhanosCompute
+**Agent-Native Distributed Compute Protocol.** The first published specification 
+for autonomous agent-to-agent compute sharing. AI agents discover idle CPU/GPU 
+capacity, negotiate access, deliver verified compute, and settle payment — with 
+zero human intervention at any stage of the lifecycle. Defines the PhanosCompute 
+Registry, COMPUTE_REQUEST task type, PhanosIntent compute broadcasts, PhanosLearn 
+federated knowledge protocol, and PhanosSwarm multi-agent reasoning. Covers Tesla 
+AI5 vehicle chips, Optimus humanoid robots, and SpaceXAI D3 orbital processors as 
+registered compute provider types. Submitted to the AAIF Linux Foundation working 
+group and ETSI TC CYBER Q2 2026.
+
+**Status:** Draft | **Author:** Terrence Stephens, Emerald Dawn Holdings | **Published:** March 26, 2026```
 
 ---
 
