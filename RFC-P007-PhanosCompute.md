@@ -24,6 +24,7 @@ The global AI infrastructure crisis of 2026 is fundamentally a coordination fail
 PhanosCompute introduces three new protocol capabilities: `phanos-cap:compute:cpu-provider`, `phanos-cap:compute:cpu-consumer`, and `phanos-cap:compute:swarm-aggregator`. It extends PhanosTask (RFC-P002) with a new `COMPUTE_REQUEST` task type, extends PhanosIntent (PhanosPrimitive P-08) with compute-specific broadcast semantics, and introduces PhanosLearn — a federated learning mechanism enabling agents to accumulate knowledge from observed compute sessions.
 
 All settlements occur through PhanosSettle (RFC-P004), generating the standard 0.15% protocol toll on every compute transaction.
+[RFC-P007-PhanosCompute.md](https://github.com/user-attachments/files/26310143/RFC-P007-PhanosCompute.md)
 
 ---
 
