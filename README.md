@@ -26,7 +26,8 @@ The specifications in this repository are free to implement under MIT. Revenue i
 | [RFC-P005](./RFC-P003-P004-P005-P006.md#rfc-p005) | PhanosConstitution — Agent Registration Agreement | Draft | 2026-03-24 |
 | [RFC-P006](./RFC-P003-P004-P005-P006.md#rfc-p006) | PhanosPassport — EU AI Act Article 13 Compliance | Draft | 2026-03-24 |
 | RFC-P007 | [PhanosCompute — Agent-Native Distributed Compute Protocol](./RFC-P007-PhanosCompute.md) | Draft |
----
+---[README.md](https://github.com/user-attachments/files/26310409/README.md)
+
 
 ## Quick Start
 
